@@ -1,0 +1,46 @@
+/* Стилі для базового оформлення */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    padding: 0;
+    background-color: #f4fcf7; /* Світло-зелений фон */
+    color: #333;
+}
+header {
+    background-color: #4CAF50; /* Зелений колір */
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+}
+nav {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #e0f2f1; /* Блакитно-зелений */
+    border-radius: 5px;
+}
+nav a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: #00796b;
+    font-weight: bold;
+}
+section {
+    padding: 20px;
+    margin-bottom: 15px;
+    background-color: white;
+    border-left: 5px solid #00796b;
+    border-radius: 5px;
+}
+footer {
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: #4CAF50;
+    color: white;
+    font-size: 0.9em;
+}
+.highlight {
+    color: #e67e22; /* Помаранчевий */
+    font-style: italic;
+}
